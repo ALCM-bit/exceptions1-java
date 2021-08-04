@@ -1,4 +1,4 @@
-# exeptions1-java
+# exceptions1-java
 <strong>• Solução 1 (muito ruim): lógica de validação no programa principal</strong>
 </br>
 • Lógica de validação não delegada à reserva
